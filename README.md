@@ -1,5 +1,5 @@
 # Another-way-to-login-with-Spotify-
-## This is just an example to fetch data from random joke API with useState and useEffect hooks.🥰
+## This is just an example to fetch data from random Spotify API with user token login.
 ### `JavaScript`
 ### `ReactJs`
 ### `SPOTIFY API`
