@@ -1,4 +1,4 @@
-# Spotify login-page
+# login Spotify 
 ## This is just an example to fetch data from random Spotify API with user token login.
 ### `JavaScript`
 ### `ReactJs`
